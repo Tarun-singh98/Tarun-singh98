@@ -160,10 +160,12 @@ reach me **ts5755798@gmail.com**
   />
 </p>
 
-//<p>
-//<img
-//   align="center"
-//   src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-singh98&"
-//   alt="Tarun-singh98"
-//>
-//</p>
+<p>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="http://github-readme-streak-stats.herokuapp.com?user=Tarun-singh98" 
+      align="center" 
+      alt="GitHub Streak" 
+      />
+  </a>
+</p>

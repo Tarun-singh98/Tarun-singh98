@@ -60,7 +60,7 @@ reach me **ts5755798@gmail.com**
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000"
       alt="express"
       width="40"
       height="40"

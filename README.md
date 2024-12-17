@@ -1,5 +1,5 @@
 [![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)]
-<h1 align="center">Hi 👋, I'm Sachin Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Tarun Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img
   align="right"
@@ -10,7 +10,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=sachinjdv7&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Tarun-singh98&label=Profile%20views&color=0e75b6&style=flat"
     alt="tarun-singh-6a7127139"
   />
 </p>
@@ -147,23 +147,23 @@ reach me **ts5755798@gmail.com**
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinjdv7&show_icons=true&locale=en&layout=compact"
-    alt="sachinjdv7"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarun-singh98&show_icons=true&locale=en&layout=compact"
+    alt="Tarun-singh98"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sachinjdv7&show_icons=true&locale=en"
-    alt="sachinjdv7"
+    src="https://github-readme-stats.vercel.app/api?username=Tarun-singh98&show_icons=true&locale=en"
+    alt="Tarun-singh98"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjdv7&"
-    alt="sachinjdv7"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-singh98&"
+    alt="Tarun-singh98"
   />
 </p>

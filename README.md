@@ -1,4 +1,4 @@
-[![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)]
+![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
 <h1 align="center">Hi 👋, I'm Tarun Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img

@@ -16,8 +16,8 @@
 </p>
 
 - I'm passionate 😍 about building web applications using **MERN stack 🥳**. -
-Currently doing fellowship software dev at **@crio.do.** - 🌱 I’m currently
-learning **MERN Stack** - 💬 Ask me about **Javascript, React Native, React** - 📫 How to
+Currently working as Full Stack Developer at **@Decobee Technologies** - 🌱 Passionate about
+learning **App & Web dev** - 💬 Ask me about **Javascript, React Native, React** - 📫 How to
 reach me **ts5755798@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
